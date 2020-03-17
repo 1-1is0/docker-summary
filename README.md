@@ -1,2 +1,2 @@
 # docker-summary
-My docker example and summery, Mostly Markdowns
+My docker exampels and summeries, Mostly Markdowns
